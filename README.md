@@ -1,6 +1,7 @@
-👋 Hi, I’m @Dazing
+👋 Hi, I'm Carl-Henrik
 
-I’m  a diverse web application developer with a interest in graphic design and roots in performance intense programming in various laguages and frameworks.
+I build integration and AI platforms — end to end, from real-time data pipelines to the web apps on top.
 
-I have professional experience in Web Development, using React & DotNet (Core), License Provisioning and various other programing areas from a mix of development, operations and migration projects on an Enterprise level.
-
+- 🛠️ **Day to day:** event-driven integration and large-scale data replication with Kafka on cloud-native Azure & Kubernetes, with a full-stack background in React and .NET.
+- 🤖 **Most into right now:** AI and agentic infrastructure — local LLM tiering, MCP skills layers, and agentic workflows wired into real systems.
+- 🔬 **Off the clock:** I run a homelab and self-host local LLMs — where I get to tinker and learn without a production system to answer to.
